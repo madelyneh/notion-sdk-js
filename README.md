@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Forked from: Notion SDK for JavaScript</h1>
+	<h1>Forked from: Notion SDK for JavaScript for app</h1>
 	<p>
 		<b>A simple and easy to use client for the <a href="https://developers.notion.com">Notion API</a></b>
 	</p>
