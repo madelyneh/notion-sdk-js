@@ -11,7 +11,7 @@
     // Overrides default in order to remove "dom" because this package shouldn't assume the presence of browser APIs
     "lib": ["ES2019"],
 
-    // Emit location
+    // Emit location 
     "outDir": "build",
 
     // Emit sourcemaps
